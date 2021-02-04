@@ -1,0 +1,4 @@
+flask
+PyMongo
+flask_pymongo
+gunicorn==20.0.4
